@@ -1,0 +1,19 @@
+.imAClass {
+    background-color: rgb(222, 131, 243);
+    font-family: "Verdana", "DeJaVu", sans-serif;
+}
+
+#imAnID {
+    color :rgb(53, 37, 221);
+    font-size : 36px;
+}
+
+.secondClass {
+    font-size : 24px;
+}
+
+#imAnIDd {
+    background-color :rgb(74, 198, 67);
+    font-size : 24px;
+    font-weight: 700;
+}
